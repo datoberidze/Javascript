@@ -31,15 +31,15 @@
 
 //დავალება 4
 
-//let user = {
-  //  name: 'Giorgi',
-   // age: 20, 
-   // studentstatus: 'active'};
+// let user = {
+//     name: 'Giorgi',
+//     age: 20, 
+//    studentstatus: 'active'};
 
-//if (user.age < 18)(console.log('Hello'))
-//else if(user.name == 'Giorgi')(console.log('Hello Giorgi'))
-//else if(user.studentstatus == 'active' || user.age < 25)(console.log('Hello world'))
-//else (console.log('Error'));
+// if (user.age < 18)(console.log('Hello'))
+// else if(user.name == 'Giorgi')(console.log('Hello Giorgi'))
+// else if(user.studentstatus == 'active' || user.age < 25)(console.log('Hello world'))
+// else (console.log('Error'));
 
 //დავალება 5
 
@@ -58,6 +58,6 @@
 
 // დავალება 7
 
-//let array = [32, 10,'hello', null, 'hello2', 50 ]
+// let array = [32, 10,'hello', 'null', 'hello2', 50 ]
 
-//for (let x of array) if( x % 5 == 0  )(console.log(x))
+// for (let x of array) if( x % 5 == 0  )(console.log(x))
